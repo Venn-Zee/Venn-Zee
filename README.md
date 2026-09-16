@@ -1,16 +1,34 @@
-## Hi there 👋
+# Heven Edrico
 
-<!--
-**Venn-Zee/Venn-Zee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Student | 💻 Software Development 
 
-Here are some ideas to get you started:
+I'm an Information Systems student at Universitas Internasional Batam
+interested in software development, web development, databases, and emerging
+technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building applications that solve practical problems, from web and
+mobile applications to AI-powered systems and database-driven platforms.
+
+### Tech Stack
+
+**Languages**
+TypeScript · Python · PHP · SQL · C#
+
+**Web & Mobile**
+React · React Native · Next.js · Flutter · Tailwind CSS
+
+**Backend & Database**
+Node.js · Supabase · PostgreSQL · MySQL
+
+**AI & Tools**
+Ollama · Local LLMs · Git · GitHub · Docker · WSL · Ubuntu · VS Code · Unity
+
+### Interests
+
+- Software Engineering
+- Information Systems
+- Mobile & Web Development
+- Database Systems
+- Artificial Intelligence
+
+> Learning by building, improving through iteration.
